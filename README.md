@@ -1,8 +1,5 @@
-# Micrograd From scratch
+# Makemore
 
-- This `.ipynb` file contains the code that helps to understand how Neural Networks work in general.
+- This branch contains the code for a Neural Network that generates more sample names as provided to it as an input
 
-- This code will help you create Neural Network from scratch visualize complex neural networks and their backpropogation of gradeints
-
-
-- Credits : <a href = 'https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ'>The spelled-out intro to neural networks and backpropagation: building micrograd</a>
+- Credits: <a href = 'https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ'>Neural Networks: Zero to Hero</a>
